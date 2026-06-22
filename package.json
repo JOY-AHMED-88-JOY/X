@@ -47,6 +47,7 @@
     "imgur-upload-api": "^0.0.1-security",
     "jimp": "^0.22.8",
     "joy-video-downloader": "^1.2.1",
+    "joy-wellcome-api": "^2.5.0",
     "lyrics-finder": "^21.7.0",
     "moment": "^2.29.1",
     "moment-timezone": "^0.5.46",
